@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather_Application</string>
+    <string name="set_limit">SET LIMIT</string>
+</resources>
